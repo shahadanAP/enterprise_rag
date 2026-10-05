@@ -1,0 +1,8 @@
+in query.py the top 5 chuncks were all from the right sources but it did not point staright ot the answer. 
+Most likely because the answer probably hidden in like a scop or definition.
+
+possible ways to fix this
+
+1 - Hybrid search
+2 - Tune chuncking
+3 - riase K but with the cost of answers being more irrelevent 
